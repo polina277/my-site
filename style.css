@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color: blueviolet ;    
+}
+h1{
+    color: cornflowerblue ;
+}
+footer{
+    background-color: blueviolet;
+}
+nav{
+   background-color: cornflowerblue; 
+}
+nav a{
+    color: white;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+p{
+   border: 3px solid blueviolet; 
+   background-color: cornflowerblue;
+}
+h2{
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+}
